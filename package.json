@@ -1,0 +1,16 @@
+{
+  "name": "honkit-ghaction-publish-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "init": "npx honkit init",
+    "start": "npx honkit serve",
+    "build": "npx honkit build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "honkit": "^4.0.4"
+  }
+}
